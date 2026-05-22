@@ -4,7 +4,7 @@ A professional software development workflow structure for startups, teams, and 
 
 ---
 
-# 📂 Workflow Navigation
+# Workflow Navigation
 
 ## Executive & Management
 
@@ -23,7 +23,7 @@ A professional software development workflow structure for startups, teams, and 
 
 ---
 
-# 🏗 Workflow Overview
+# Workflow Overview
 
 ```text
 CEO
