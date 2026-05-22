@@ -1,6 +1,6 @@
 # Company Project Workflow Structure
 
-A professional software development workflow structure for startups, teams, and enterprise environments.
+A professional software development workflow.
 
 ---
 
